@@ -24,7 +24,7 @@ Building a website for your resume can be an excellent way to showcase your skil
 ## Additional Features
 
     Typewriter Effect: The heading <h1> inside the hero section has a class "Moving-text typewrite" and includes custom data attributes (data-period, data-type) for a typewriter effect animation.
-    External JavaScript: The website includes an external JavaScript code from https://tryhackme.com/badge/1666577. This code may load a badge or some external content dynamically.
+    External JavaScript: The website includes an external JavaScript code from https://tryhackme.com/badge/1666577. This code can load a badge or some external content dynamically.
 
 ## Usage
 
