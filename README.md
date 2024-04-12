@@ -28,4 +28,4 @@ Building a website for your resume can be an excellent way to showcase your skil
 
 ## Usage
 
-Feel free to utilize the published source code as a template or reference for your own resume website. Customize the content, add your projects, skills, and experience to make it your own.
+Feel free to utilize the published source code as a template or reference for your own resume website. Customize the content, add your projects, skills,  experience to make it your own.
