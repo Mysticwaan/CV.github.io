@@ -1,6 +1,6 @@
 # Source Code For CV Website!
 
-![Cyborg_Cat](https://imgur.com/cj437iC.jpeg) 
+![Cyborg_Cat](https://imgur.com/cj437iC.jpeg)  
 
 ## Introduction
 
