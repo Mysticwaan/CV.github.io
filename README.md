@@ -6,7 +6,7 @@
 
 Building a website for your resume can be an excellent way to showcase your skills and professional experience. In the spirit of sharing and collaboration, I have decided to publish the source code of my website. By doing so, I hope to offer others the opportunity to utilize it as a template or reference for their own resume websites.
 
-## Structure
+## Structure 
 
 ### The website is structured using HTML tags to define the document structure. Here are some key elements:
 
